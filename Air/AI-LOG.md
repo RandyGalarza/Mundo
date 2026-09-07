@@ -5,6 +5,7 @@
 **Tecnología:** Expo SDK 57, React Native 0.86, React 19, TypeScript y NativeWind 4  
 **Aplicación de referencia:** Airbnb  
 **Estado:** maqueta funcional de tres pantallas
+**Estudiantes:** Randy Galarza, Pedro Bruges
 
 ## 1. Prompts utilizados
 
